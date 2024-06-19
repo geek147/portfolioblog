@@ -30,13 +30,7 @@ const { showHeader = true, ...head } = Astro.props;
                 height: 60px; /* Height of the iframe */
             }
         </style>
-        <ViewTransitions />
-    </head>
-    <body class="bg-main text-main">
-        
-        <div class="flex flex-col min-h-screen px-4 md:px-8">
-           <div class="script-container">
-            <script type="text/javascript">
+         <script type="text/javascript">
             atOptions = {
                 'key' : 'f1f2f98201a2d43b674431fccfde5ec6',
                 'format' : 'iframe',
@@ -45,8 +39,15 @@ const { showHeader = true, ...head } = Astro.props;
                 'params' : {}
             };
             </script>
+        <ViewTransitions />
+    </head>
+    <body class="bg-main text-main">
+        <div class="script-container">
+           
             <script type="text/javascript" src="//www.topcreativeformat.com/f1f2f98201a2d43b674431fccfde5ec6/invoke.js"></script>
         </div>
+        <div class="flex flex-col min-h-screen px-4 md:px-8">
+           
             <Nav />
             {showHeader && <Header />}
             <main class="grow w-full max-w-3xl mx-auto">

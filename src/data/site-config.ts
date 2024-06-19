@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Software Developer',
     description: '',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/danau.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
@@ -87,8 +87,8 @@ const siteConfig: SiteConfig = {
         title: 'Welcome to my web',
         text: "I'm **Ilham Aulia Malik**, a Software developer with 10 years experience . My work mostly on Android and Flutter Development. Interested in AI, Computer Vision and VR. Always enjoy learning new things and try to create better product. Feel free to explore some of my coding endeavors on <a href='https://github.com/geek147'>GitHub</a> or follow me on <a href='https://twitter.com/hamlicious'>Twitter/X</a>.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/danau.jpg',
+            alt: 'A person sitting in front of lake'
         },
         actions: [
             {

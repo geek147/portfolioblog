@@ -2,7 +2,13 @@
 title: 'Menghadapi Tech Winter: Cara Bertahan dan Berkembang Saat Musim Dingin Melanda Dunia Teknologi'
 description: 'Eksplorasi tantangan dan peluang selama penurunan industri teknologi.'
 publishDate: '2024-06-18'
-author: 'Nama Anda'
+tags:
+  - Social
+  - Tech Winter
+seo:
+  image:
+    src: '/post-1-winter.jpeg'
+    alt: Winter is coming!
 ---
 
 Industri teknologi, seperti musim yang berganti, mengalami siklus pasang surut. Selamat datang di "Tech Winter," periode dingin di mana pendanaan membeku, startup berhibernasi, dan inovasi melambat. Namun, seperti musim dingin alami, fase ini bisa menjadi peluang yang terselubung, saat yang tepat untuk refleksi, reinvensi, dan persiapan menghadapi musim semi yang akan datang.
